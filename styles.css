@@ -1,0 +1,33 @@
+body {
+
+}
+
+.hero-image {
+    background-image: url(gradient4.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
